@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Orionthehunta
 - 👀 I’m a tech enthusiast and I'm interested in brain twisters
 - 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on any project as soon as I'm better at the coding thing 
+- 💞️ I’m looking to collaborate on any project as soon as I'm better.
 - 📫 Reach me : allenugwunnaya@gmail.com
 
 <!---
