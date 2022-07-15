@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Orionthehunta
+- 👋 Hi, I’m Allen
 - 👀 I’m a tech enthusiast and I'm interested in brain twisters
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on any project as soon as I'm better.
